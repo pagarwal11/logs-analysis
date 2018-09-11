@@ -6,10 +6,10 @@ Bad things gone, say good people with 170098 views
 
 2. Who are the most popular article authors of all time?
 The top authors sorted by popularity are:
-('Ursula La Multa', Decimal('507594'))
-('Rudolf von Treppenwitz', Decimal('423457'))
-('Anonymous Contributor', Decimal('170098'))
-('Markoff Chaney', Decimal('84557'))
+Ursula La Multa with 507594 views
+Rudolf von Treppenwitz with 423457 views
+Anonymous Contributor with 170098 views
+Markoff Chaney with 84557 views
 
 3. On which days did more than 1% of requests lead to errors
 The dates with more than 1% error requests are:
