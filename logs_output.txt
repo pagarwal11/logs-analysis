@@ -1,0 +1,17 @@
+1. What are the most popular three articles of all time? 
+The top three articles sorted by popularity are:
+Candidate is jerk, alleges rival with 338647 views
+Bears love berries, alleges bear with 253801 views
+Bad things gone, say good people with 170098 views
+
+2. Who are the most popular article authors of all time?
+The top authors sorted by popularity are:
+('Ursula La Multa', Decimal('507594'))
+('Rudolf von Treppenwitz', Decimal('423457'))
+('Anonymous Contributor', Decimal('170098'))
+('Markoff Chaney', Decimal('84557'))
+
+3. On which days did more than 1% of requests lead to errors
+The dates with more than 1% error requests are:
+2016-07-17 with 2.2626862468027260% error requests
+
